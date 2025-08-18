@@ -3,13 +3,13 @@
 ## Diagram 
 
 graph TD
-    iPad[iPad (Microsoft Remote Desktop)]
-    DC[Domain Controller (lab.local)]
-    OU1[OU: IT <br> User: John Doe]
-    OU2[OU: HR <br> User: Alice Smith]
-    OU3[OU: Users <br> User: Bob User]
+    iPad["iPad (Microsoft Remote Desktop)"]
+    DC["Domain Controller (lab.local)"]
+    OU1["OU: IT - User: John Doe"]
+    OU2["OU: HR - User: Alice Smith"]
+    OU3["OU: Users - User: Bob User"]
 
-    iPad -->|RDP 3389| DC
+    iPad -->|"RDP 3389"| DC
     DC --> OU1
     DC --> OU2
     DC --> OU3
