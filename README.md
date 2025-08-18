@@ -8,7 +8,7 @@
 
 ## Foundations
 
-- Build a cloud-based home lab on AWS EC2 [Home Lab](./foundations/01_cloud_lab_aws)
+- [Build a cloud-based home lab on AWS EC2](./foundations/01_cloud_lab_aws)
 - Harden your Linux server (UFW, SSH keys, root disable)
 - Set up custom DNS-over-HTTPS (DoH/DoT)
 - Deploy a VPN server (WireGuard / Algo VPN)
