@@ -78,7 +78,15 @@
 - Add QR codes linking to your GitHub or portfolio from videos
 - Build your own offline security cheatsheet system (Markdown)
 - Start a personal newsletter from your iPad w/ project updates
-  
+
+## Extra Projects (Advanced / Enterprise-Level)
+
+### Active Directory & Domain Controller
+
+- AD/DC Fundamentals Setup
+- Group Policy in Action
+- Securing AD
+- Attack & Detection Simulation
 ---
 
 ## 🧭 How to Use This Repo
@@ -93,8 +101,3 @@ Each project has:
 
 ## 🚧 Status Tracker
 
-| Project | Name                     | Status  | Video | GitHub Docs |
-|---------|--------------------------|---------|--------|--------------|
-| 1       | Cloud Lab on AWS         | ✅ Done | 🔗 [Video](#) | ✅ |
-| 2       | System Hardening (SSH)   | 🛠️ In Progress | 🔗 | 🔲 |
-| 3       | MITM Detection + DNS     | 🛠️ Planned | 🔲 | 🔲 |
