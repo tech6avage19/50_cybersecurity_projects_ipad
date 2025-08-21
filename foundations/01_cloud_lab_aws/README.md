@@ -1,7 +1,7 @@
-# Project XX: [Name]
+# Project 01: AWS Cloud Home Lab
 
 ## 🎯 Goal
-What problem or skill this project demonstrates.
+Creating a cloud based home lab using AWS EC2.
 
 ## ⚙️ Tools
 - App/Tool 1
